@@ -1,5 +1,4 @@
 ![Screen](https://github.com/user-attachments/assets/f3bd65ea-ebdd-4fbf-8266-3f7eb3a70d3a)
-Sim, o texto está bem estruturado para ser colocado no README do GitHub, mas para uma melhor organização e clareza, pode-se melhorar a formatação com títulos e listas. Veja como ficaria o formato sugerido:
 
 ---
 
